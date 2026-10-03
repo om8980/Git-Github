@@ -1,0 +1,4 @@
+A Pull Request (PR) is a request to merge your code changes into another branch, usually the main branch.
+Teams use Pull Requests to review code before adding it to the project.
+Other team members can check the code, suggest improvements, and find mistakes.
+This helps maintain good code quality and makes teamwork safer and easier.

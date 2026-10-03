@@ -1,0 +1,10 @@
+Q.1  A local merge is done on your computer using Git commands. A PR merge is done on GitHub after team members review and approve the changes.
+
+Q.2  I would prefer a local merge when I am working alone or when the changes are small and do not need review.
+
+Q.3   A Pull Request is better when working in a team because other members can review the code, give suggestions, and approve it before merging.
+
+Q.4   git pull
+
+Q.5   Fetch – Downloads the latest changes from the remote repository.
+      Merge – Merges those changes into your current local branch.
